@@ -3,7 +3,7 @@
 ||Desenvolvedor Java Jr Full Stack||
 
 #### Meus contatos:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/isac-bianor-amador-silva-09ab071b5/)](https://www.linkedin.com/in/rodrigo-teixeira-59b728103/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/isac-bianor-amador-silva-09ab071b5/)](:https://www.linkedin.com/in/isac-bianor-amador-silva-09ab071b5/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511998898997&text=Olá Isac!)](https://api.whatsapp.com/send?phone=5511998898997&text=Olá Isac!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isacbianor@gmail.com)](mailto:isacbianor@gmail.com)
 
